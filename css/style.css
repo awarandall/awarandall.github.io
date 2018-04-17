@@ -1,4 +1,4 @@
-di{
+div{
     outline: 1px solid lime;
 }
 
@@ -135,6 +135,10 @@ ul li:Hover a:before{
     
 }
 
+.arrow a{
+    scroll-behavior: smooth;
+}
+
 
 
 
@@ -153,7 +157,7 @@ ul li:Hover a:before{
     width: 900px;
     height:580px;
     margin-left: 300px;
-    margin-top: 435px;
+    margin-top: 415px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
 }
@@ -255,7 +259,7 @@ ul li:Hover a:before{
 .textbox1{
  width: 200px; 
  position: absolute;
- top: 3700px;
+ top: 3800px;
 left: 740px;
 }
 
@@ -781,26 +785,6 @@ about.html {
 
 
 
-
-
-...
-<style>
-body {
-scroll-behavior: smooth;
-}
-#nav {
-background-color: white;
-height:25px;
-padding-top: 25px;
-position: fixed;
-top: 0;
-}
-h1 {
-/* offset to accommodate fixed nav */
-padding-top: 50px;
-}
-</style>
-...
 
 
 
