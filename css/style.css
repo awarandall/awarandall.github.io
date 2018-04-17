@@ -1,4 +1,4 @@
-div{
+di{
     outline: 1px solid lime;
 }
 
@@ -157,7 +157,7 @@ ul li:Hover a:before{
     width: 900px;
     height:580px;
     margin-left: 300px;
-    margin-top: 415px;
+    margin-top: 435px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
 }
@@ -259,7 +259,7 @@ ul li:Hover a:before{
 .textbox1{
  width: 200px; 
  position: absolute;
- top: 3800px;
+ top: 3700px;
 left: 740px;
 }
 
