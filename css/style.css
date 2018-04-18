@@ -464,7 +464,7 @@ about.html {
 .centre3{
     width:1300px;
     Height: 4000px;
-    margin-left: 50px;
+    margin-left: 150px;
     margin-top: 0px;
         
         
@@ -472,7 +472,7 @@ about.html {
 }
 
 .title1 h1 {
-    margin-left: 540px;
+    margin-left: 490px;
     margin-top: 150px;
     float: left;
     
@@ -483,10 +483,10 @@ about.html {
 }
 
 .Gallery{
-    width: 1270px;
+    width: 1235px;
     height: 2000px;
     margin-top: 450px;
-    margin-left: 85px;
+    margin-left: 50px;
     float: left;
     
     
