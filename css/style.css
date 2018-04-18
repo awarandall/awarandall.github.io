@@ -166,7 +166,7 @@ ul li:Hover a:before{
 .img2 img {
     width: 450px;
     height:600px;
-    margin-left: 60px;
+    margin-left: 20px;
     margin-top: 240px;
     position: absolute;
     top: 1330px;
@@ -177,7 +177,7 @@ ul li:Hover a:before{
 .img3 img {
     width:  400px;
     height: 600px;
-    margin-left: 710px;
+    margin-left: 690px;
     margin-top: 1140px;
     position: absolute;
     top: 430px;
