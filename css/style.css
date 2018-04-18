@@ -1,4 +1,4 @@
-di{
+div{
     outline: 1px solid lime;
 }
 
@@ -32,9 +32,9 @@ body{
 .head{
     width:1200px;
     height: 200px;
-    margin-left: 150px;
-    margin-top: 38px;
-    float: left;
+    margin-left: 600px;
+    margin-top: 50px;
+   
 }
 
 .monogram{
@@ -474,9 +474,9 @@ about.html {
 }
 
 .title1 h1 {
-    margin-left: 570px;
+    margin-left: 650px;
     margin-top: 150px;
-    float: left;
+    
 }
 
 .screen1{
