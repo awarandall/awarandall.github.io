@@ -4,7 +4,7 @@ div{
 
 
 body{
-    max-width: 1200px;
+    max-width: 1100px;
     max-height: inherit; 
     margin: 0 0 0 0;
     padding: 0;
@@ -21,7 +21,7 @@ body{
 .centre1{
     width:1300px;
     Height: 4000px;
-    margin-left: 120px;
+    margin-left: 80px;
    
     
         
@@ -291,7 +291,7 @@ left: 740px;
 .centre2{
     width:1300px;
     Height: 4000px;
-    margin-left: 120px;
+    margin-left: 80px;
     
     
         
@@ -465,7 +465,7 @@ about.html {
 .centre3{
     width:1300px;
     Height: 4000px;
-    margin-left: 120px;
+    margin-left: 80px;
     margin-top: 0px;
         
         
@@ -636,7 +636,7 @@ about.html {
     width: 1270px;
     height: 2680px;
     margin-top: 450px;
-    margin-left: 150px;
+    margin-left: 0px;
     float: left;
 
     
@@ -645,8 +645,8 @@ about.html {
 .uw{
     width: 376px;
     height: 267px;
-    margin-left: 0px;
-    margin-top: 50px;
+    margin-left: 120px;
+    margin-top: 76px;
 }
 
 .uw img{
@@ -691,7 +691,7 @@ about.html {
 .drgn{
     width: 376px;
     height: 250px;
-    margin-left: 0px;
+    margin-left: 120px;
     margin-top: 50px;
 }
 
@@ -704,7 +704,7 @@ about.html {
 .bee{
     width: 377px;
     height: 260px;
-    margin-left: 0px;
+    margin-left: 120px;
     margin-top: 50px;
 }
 
@@ -733,7 +733,7 @@ about.html {
 .max{
     width: 382px;
     height: 560px;
-    margin-left: 0px;
+    margin-left: 120px;
     margin-top: 50px;
 }
 
