@@ -1,4 +1,4 @@
-div{
+di{
     outline: 1px solid lime;
 }
 
@@ -655,7 +655,7 @@ about.html {
     width: 376px;
     height: 267px;
     margin-left: 20px;
-    margin-top: 76px;
+    margin-top: 96px;
 }
 
 .uw img{
@@ -668,7 +668,7 @@ about.html {
     width: 379px;
     height: 267px;
     margin-left: 0px;
-    margin-top: 50px;
+    margin-top: 70px;
     position: absolute;
     left: 645px;
     top: 895px;
@@ -684,7 +684,7 @@ about.html {
     width: 380px;
     height: 267px;
     margin-left: 0px;
-    margin-top: 50px;
+    margin-top: 70px;
     position: absolute;
     left: 1090px;
     top: 895px;
@@ -701,7 +701,7 @@ about.html {
     width: 376px;
     height: 250px;
     margin-left: 20px;
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .drgn img{
@@ -714,7 +714,7 @@ about.html {
     width: 377px;
     height: 260px;
     margin-left: 20px;
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .bee img{
@@ -725,17 +725,17 @@ about.html {
 
 .forest{
     width: 825px;
-    height: 564px;
+    height: 584px;
     margin-left: 0px;
-    margin-top: 50px;
+    margin-top: 40px;
     position: absolute;
     left: 645px;
-    top: 1210px;
+    top: 1260px;
 }
 
 .forest img{
     width: 825px;
-    height: 564px;
+    height: 584px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -743,7 +743,7 @@ about.html {
     width: 382px;
     height: 560px;
     margin-left: 20px;
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .max img{
@@ -756,10 +756,10 @@ about.html {
     width: 820px;
     height: 560px;
     margin-left: 0px;
-    margin-top: 50px;
+    margin-top: 70px;
     position: absolute;
     left: 645px;
-    top: 1823px;
+    top: 1883px;
 }
 
 .fog img{
