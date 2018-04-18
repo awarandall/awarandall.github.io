@@ -1,4 +1,4 @@
-di{
+div{
     outline: 1px solid lime;
 }
 
@@ -21,7 +21,7 @@ body{
 .centre1{
     width:1300px;
     Height: 4000px;
-    margin-left: 80px;
+    margin-left: 0px;
    
     
         
@@ -291,7 +291,7 @@ left: 740px;
 .centre2{
     width:1300px;
     Height: 4000px;
-    margin-left: 80px;
+    margin-left: 0px;
     
     
         
@@ -464,7 +464,7 @@ about.html {
 .centre3{
     width:1300px;
     Height: 4000px;
-    margin-left: 80px;
+    margin-left: 0px;
     margin-top: 0px;
         
         
