@@ -131,7 +131,7 @@ ul li:Hover a:before{
 .arrow{
     position: absolute;
     top: 550px;
-    left: 760px;
+    left: 785px;
     float: left;
     
 }
@@ -430,7 +430,7 @@ about.html {
 .Visit h1{
     width: 300px;
     height: 100px;
-    margin-left: 540px;
+    margin-left: 525px;
     margin-top: 200px;
     font-size: 20px;
     text-align: center;
@@ -472,7 +472,7 @@ about.html {
 }
 
 .title1 h1 {
-    margin-left: 470px;
+    margin-left: 500px;
     margin-top: 150px;
     float: left;
     
@@ -588,7 +588,7 @@ about.html {
 
 .screenDES h3{
     font-weight: normal;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .Gallery :hover{
