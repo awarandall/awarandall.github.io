@@ -19,7 +19,7 @@ body{
 
 
 .centre1{
-    width:1300px;
+    width:1350px;
     Height: 4000px;
     margin-left: 165px;
    
@@ -289,7 +289,7 @@ left: 760px;
 
 
 .centre2{
-    width:1300px;
+    width:1350px;
     Height: 4000px;
     margin-left: 165px;
     
@@ -462,7 +462,7 @@ about.html {
 
 
 .centre3{
-    width:1300px;
+    width:1350px;
     Height: 4000px;
     margin-left: 165px;
     margin-top: 0px;
@@ -620,7 +620,7 @@ about.html {
 
 
 .title2 h1{
-    margin-left: 562px;
+    margin-left: 525px;
     margin-top: 150px;
     float: left;
 }
@@ -629,13 +629,23 @@ about.html {
     color:#17cabf;
 }
 
+.centre4{
+    width:1350px;
+    Height: 3000px;
+    margin-left: 165px;
+    margin-top: 0px;
+        
+        
+    
+}
+
 
 
 .Gallery1{
-    width: 1270px;
-    height: 2680px;
+    width: 1300px;
+    height: 2000px;
     margin-top: 450px;
-    margin-left: 0px;
+    margin-left: 15px;
     float: left;
 
     
@@ -644,7 +654,7 @@ about.html {
 .uw{
     width: 376px;
     height: 267px;
-    margin-left: 120px;
+    margin-left: 20px;
     margin-top: 76px;
 }
 
@@ -690,7 +700,7 @@ about.html {
 .drgn{
     width: 376px;
     height: 250px;
-    margin-left: 120px;
+    margin-left: 20px;
     margin-top: 50px;
 }
 
@@ -703,7 +713,7 @@ about.html {
 .bee{
     width: 377px;
     height: 260px;
-    margin-left: 120px;
+    margin-left: 20px;
     margin-top: 50px;
 }
 
@@ -732,7 +742,7 @@ about.html {
 .max{
     width: 382px;
     height: 560px;
-    margin-left: 120px;
+    margin-left: 20px;
     margin-top: 50px;
 }
 
@@ -768,7 +778,7 @@ about.html {
 .lensDES{
     width: 600px;
     height: 200px;
-    margin-top: 00px;
+    margin-top: 0px;
     float: left;
     position: absolute;
     top: 2600px;
@@ -777,7 +787,7 @@ about.html {
 }
 
 .lensDES h3{
-    font-size: 20px;
+    font-size: 16px;
     font-weight: normal;
 }
 
