@@ -19,7 +19,7 @@ body{
 
 
 .centre1{
-    width:1480px;
+    width:1200px;
     Height: 4000px;
     margin-left: 60px;
    
@@ -30,24 +30,24 @@ body{
 }
 
 .head{
-    width:1000px;
+    width:1200px;
     height: 200px;
-    margin-left: auto;
-    margin-top: auto;
-    
+    margin-left: 150px;
+    margin-top: 38px;
+    float: left;
 }
 
 .monogram{
     width: 180px;
     height: 180px;
-    margin-left: 20px;
+    margin-left: 0px;
     margin-top: 10px;
     float: left;
 }
 
 .monogram img{
-    width: 145px;
-    height: 180px;
+    width: 125px;
+    height: 160px;
 }
 
 
@@ -82,7 +82,7 @@ ul li{
 ul li a{
     text-decoration: none;
     text-transform: lowercase;
-    font-size: 10px;
+    font-size: 12px;
     color: black;
     position: relative;
         
