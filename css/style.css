@@ -496,7 +496,7 @@ about.html {
     width: 472px;
     height: 317px;
     margin-left: 50px;
-    margin-top: 50px;
+    margin-top: 90px;
     background-color: azure;
 }
 
@@ -538,8 +538,8 @@ about.html {
     width: 625px;
     height: 819px;
     position: absolute;
-    left: 780px;
-    top: 918px;
+    left: 790px;
+    top: 958px;
 }
 
 .blind img{
@@ -552,8 +552,8 @@ about.html {
     width: 620px;
     height:404px;
     position: absolute;
-    left: 780px;
-    top: 1790px;
+    left: 790px;
+    top: 1830px;
     
 }
 
@@ -567,8 +567,8 @@ about.html {
     width: 609px;
     height: 604px;
     position: absolute;
-    left: 780px;
-    top: 2240px;
+    left: 790px;
+    top: 2290px;
     
 }
 
