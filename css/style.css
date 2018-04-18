@@ -1,10 +1,10 @@
-di{
+div{
     outline: 1px solid lime;
 }
 
 
 body{
-    max-width: 1150px;
+    max-width: 100%;
     max-height: inherit; 
     margin: 0 0 0 0;
     padding: 0;
@@ -19,9 +19,10 @@ body{
 
 
 .centre1{
-    width:1150px;
+    width:1100px;
     Height: 4000px;
-    margin-left: 165px;
+    margin-left: auto;
+    margin-right: auto;
    
     
         
@@ -30,7 +31,7 @@ body{
 }
 
 .head{
-    width:1300px;
+    width:1100px;
     height: 200px;
     margin-left:0px;
     margin-top: 10px;
@@ -64,7 +65,7 @@ body{
 /*Menu animation*/
 
 ul{
-    margin: 0 200px;
+    margin-top: 0px;
     padding:0;
     display: flex; 
     margin-right: 10px;
@@ -289,7 +290,7 @@ left: 760px;
 
 
 .centre2{
-    width:1350px;
+    width:1300px;
     Height: 4000px;
     margin-left: 165px;
     
@@ -462,7 +463,7 @@ about.html {
 
 
 .centre3{
-    width:1350px;
+    width:1300px;
     Height: 4000px;
     margin-left: 165px;
     margin-top: 0px;
@@ -629,23 +630,21 @@ about.html {
     color:#17cabf;
 }
 
+
 .centre4{
-    width:1350px;
-    Height: 3000px;
+    width:1300px;
+    Height: 4000px;
     margin-left: 165px;
     margin-top: 0px;
-        
-        
-    
 }
 
 
 
 .Gallery1{
-    width: 1300px;
+    width: 1270px;
     height: 2000px;
     margin-top: 450px;
-    margin-left: 15px;
+    margin-left: 150px;
     float: left;
 
     
@@ -655,7 +654,7 @@ about.html {
     width: 376px;
     height: 267px;
     margin-left: 20px;
-    margin-top: 96px;
+    margin-top: 76px;
 }
 
 .uw img{
@@ -668,7 +667,7 @@ about.html {
     width: 379px;
     height: 267px;
     margin-left: 0px;
-    margin-top: 70px;
+    margin-top: 50px;
     position: absolute;
     left: 645px;
     top: 895px;
@@ -684,7 +683,7 @@ about.html {
     width: 380px;
     height: 267px;
     margin-left: 0px;
-    margin-top: 70px;
+    margin-top: 50px;
     position: absolute;
     left: 1090px;
     top: 895px;
@@ -701,7 +700,7 @@ about.html {
     width: 376px;
     height: 250px;
     margin-left: 20px;
-    margin-top: 70px;
+    margin-top: 50px;
 }
 
 .drgn img{
@@ -714,7 +713,7 @@ about.html {
     width: 377px;
     height: 260px;
     margin-left: 20px;
-    margin-top: 70px;
+    margin-top: 50px;
 }
 
 .bee img{
@@ -725,17 +724,17 @@ about.html {
 
 .forest{
     width: 825px;
-    height: 584px;
+    height: 564px;
     margin-left: 0px;
-    margin-top: 40px;
+    margin-top: 50px;
     position: absolute;
     left: 645px;
-    top: 1260px;
+    top: 1210px;
 }
 
 .forest img{
     width: 825px;
-    height: 584px;
+    height: 564px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -743,7 +742,7 @@ about.html {
     width: 382px;
     height: 560px;
     margin-left: 20px;
-    margin-top: 70px;
+    margin-top: 50px;
 }
 
 .max img{
@@ -756,10 +755,10 @@ about.html {
     width: 820px;
     height: 560px;
     margin-left: 0px;
-    margin-top: 70px;
+    margin-top: 50px;
     position: absolute;
     left: 645px;
-    top: 1883px;
+    top: 1823px;
 }
 
 .fog img{
@@ -787,7 +786,7 @@ about.html {
 }
 
 .lensDES h3{
-    font-size: 16px;
+    font-size: px;
     font-weight: normal;
 }
 
