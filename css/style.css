@@ -1,4 +1,4 @@
-di{
+div{
     outline: 1px solid lime;
 }
 
@@ -30,11 +30,11 @@ body{
 }
 
 .head{
-    width:1400px;
+    width:1000px;
     height: 200px;
-    margin-left: 63px;
-    margin-top: 38px;
-    float: left;
+    margin-left: auto;
+    margin-top: auto;
+    
 }
 
 .monogram{
@@ -82,7 +82,7 @@ ul li{
 ul li a{
     text-decoration: none;
     text-transform: lowercase;
-    font-size: 20px;
+    font-size: 10px;
     color: black;
     position: relative;
         
