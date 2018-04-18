@@ -1,4 +1,4 @@
-di{
+div{
     outline: 1px solid lime;
 }
 
@@ -21,7 +21,7 @@ body{
 .centre1{
     width:1300px;
     Height: 4000px;
-    margin-left: 50px;
+    margin-left: 150px;
    
     
         
@@ -116,7 +116,7 @@ ul li:Hover a:before{
 
 .subtitle{
     width: 500px;
-    margin-left: 470px;
+    margin-left: 440px;
     margin-right: auto;
     margin-top: 150px;
     float: left;
@@ -166,7 +166,7 @@ ul li:Hover a:before{
 .img2 img {
     width: 450px;
     height:600px;
-    margin-left: 20px;
+    margin-left: 130px;
     margin-top: 240px;
     position: absolute;
     top: 1330px;
@@ -177,7 +177,7 @@ ul li:Hover a:before{
 .img3 img {
     width:  400px;
     height: 600px;
-    margin-left: 690px;
+    margin-left: 790px;
     margin-top: 1140px;
     position: absolute;
     top: 430px;
@@ -227,8 +227,8 @@ ul li:Hover a:before{
 
 .btminfo2 {
     width: 270px;
-    height:30px;
-    margin-left: 590px;
+    height:100px;
+    margin-left: 565px;
     margin-top: 1800px;
     position: absolute;
     top: 1778px;
@@ -261,7 +261,7 @@ ul li:Hover a:before{
  width: 200px; 
  position: absolute;
  top: 3700px;
-left: 740px;
+left: 760px;
 }
 
 
