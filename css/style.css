@@ -1,4 +1,4 @@
-di{
+div{
     outline: 1px solid lime;
 }
 
@@ -630,7 +630,7 @@ about.html {
 
 .Gallery1{
     width: 1270px;
-    height: 2680px;
+    height: 2080px;
     margin-top: 450px;
     margin-left: 0px;
     float: left;
