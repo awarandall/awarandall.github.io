@@ -4,7 +4,7 @@ div{
 
 
 body{
-    max-width: 100%;
+    max-width: 1100px;
     max-height: inherit; 
     margin: 0 0 0 0;
     padding: 0;
@@ -19,10 +19,9 @@ body{
 
 
 .centre1{
-    width:1100px;
+    width:1300px;
     Height: 4000px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 165px;
    
     
         
@@ -31,7 +30,7 @@ body{
 }
 
 .head{
-    width:1100px;
+    width:1300px;
     height: 200px;
     margin-left:0px;
     margin-top: 10px;
@@ -65,7 +64,7 @@ body{
 /*Menu animation*/
 
 ul{
-    margin-top: 0px;
+    margin: 0 200px;
     padding:0;
     display: flex; 
     margin-right: 10px;
@@ -117,11 +116,11 @@ ul li:Hover a:before{
 
 .subtitle{
     width: 500px;
-    margin-left: 300px;
+    margin-left: 440px;
     margin-right: auto;
     margin-top: 150px;
     float: left;
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
 }
 
@@ -158,7 +157,7 @@ ul li:Hover a:before{
 .img1 img {
     width: 900px;
     height:580px;
-    margin-left: 130px;
+    margin-left: 240px;
     margin-top: 500px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
@@ -189,7 +188,7 @@ ul li:Hover a:before{
 .img4 img {
     width: 900px;
     height:580px;
-    margin-left: 130px;
+    margin-left: 240px;
     margin-top: 470px;
     position: absolute;
     top: 1778px;
@@ -199,7 +198,7 @@ ul li:Hover a:before{
 .img5 img {
     width: 900px;
     height:580px;
-    margin-left: 130px;
+    margin-left: 240px;
     margin-top: 1100px;
     position: absolute;
     top: 1778px;
@@ -210,7 +209,7 @@ ul li:Hover a:before{
 .btminfo1 {
     width: 900px;
     height:60px;
-    margin-left: 140px;
+    margin-left: 245px;
     margin-top: 1700px;
     position: absolute;
     top: 1778px;
@@ -229,7 +228,7 @@ ul li:Hover a:before{
 .btminfo2 {
     width: 270px;
     height:100px;
-    margin-left: 480px;
+    margin-left: 565px;
     margin-top: 1800px;
     position: absolute;
     top: 1778px;
@@ -242,7 +241,7 @@ ul li:Hover a:before{
 }
 
 .footer{
-    width: 100%;
+    width: 1746px;
     height: 55px;
     background-color: black;
     color: white;
@@ -254,7 +253,6 @@ ul li:Hover a:before{
     bottom: 0pt;
     left: 0pt;
     font-size: 10px;
-    text-align: center;
     
     
 }
@@ -263,12 +261,16 @@ ul li:Hover a:before{
  width: 200px; 
  position: absolute;
  top: 3700px;
-left: 770px;
+left: 760px;
 }
 
 
 
 
+.footer h3{
+    margin-top: 20px;
+    margin-left: 800px;
+}
 
 
 
@@ -299,7 +301,7 @@ left: 770px;
 .thumbnail{
     width:380px;
     height:370px;
-    margin-left: 260px;
+    margin-left: 350px;
     margin-top: 150px;
     float: left;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -331,7 +333,7 @@ left: 770px;
 }
 
 .textbox{
-    margin-left: 260px;
+    margin-left: 350px;
     margin-right: 150px;
     margin-top: 30px;
     float: left;
@@ -482,7 +484,7 @@ about.html {
 
 .Gallery{
     width: 1235px;
-    height: 2100px;
+    height: 2000px;
     margin-top: 450px;
     margin-left: 50px;
     float: left;
@@ -536,7 +538,7 @@ about.html {
     width: 625px;
     height: 819px;
     position: absolute;
-    left: 790px;
+    left: 780px;
     top: 958px;
 }
 
@@ -550,8 +552,8 @@ about.html {
     width: 620px;
     height:404px;
     position: absolute;
-    left: 790px;
-    top: 1830px;
+    left: 780px;
+    top: 180px;
     
 }
 
@@ -565,8 +567,8 @@ about.html {
     width: 609px;
     height: 604px;
     position: absolute;
-    left: 790px;
-    top: 2290px;
+    left: 780px;
+    top: 2260px;
     
 }
 
@@ -618,7 +620,7 @@ about.html {
 
 
 .title2 h1{
-    margin-left: 525px;
+    margin-left: 562px;
     margin-top: 150px;
     float: left;
 }
@@ -628,20 +630,12 @@ about.html {
 }
 
 
-.centre4{
-    width:1300px;
-    Height: 4000px;
-    margin-left: 165px;
-    margin-top: 0px;
-}
-
-
 
 .Gallery1{
     width: 1270px;
-    height: 2000px;
+    height: 2680px;
     margin-top: 450px;
-    margin-left: 150px;
+    margin-left: 0px;
     float: left;
 
     
@@ -650,7 +644,7 @@ about.html {
 .uw{
     width: 376px;
     height: 267px;
-    margin-left: 20px;
+    margin-left: 120px;
     margin-top: 76px;
 }
 
@@ -696,7 +690,7 @@ about.html {
 .drgn{
     width: 376px;
     height: 250px;
-    margin-left: 20px;
+    margin-left: 120px;
     margin-top: 50px;
 }
 
@@ -709,7 +703,7 @@ about.html {
 .bee{
     width: 377px;
     height: 260px;
-    margin-left: 20px;
+    margin-left: 120px;
     margin-top: 50px;
 }
 
@@ -738,7 +732,7 @@ about.html {
 .max{
     width: 382px;
     height: 560px;
-    margin-left: 20px;
+    margin-left: 120px;
     margin-top: 50px;
 }
 
@@ -774,7 +768,7 @@ about.html {
 .lensDES{
     width: 600px;
     height: 200px;
-    margin-top: 0px;
+    margin-top: 00px;
     float: left;
     position: absolute;
     top: 2600px;
@@ -783,7 +777,7 @@ about.html {
 }
 
 .lensDES h3{
-    font-size: px;
+    font-size: 20px;
     font-weight: normal;
 }
 
