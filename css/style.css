@@ -157,7 +157,7 @@ ul li:Hover a:before{
 .img1 img {
     width: 900px;
     height:580px;
-    margin-left: 240px;
+    margin-left: 265px;
     margin-top: 500px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
@@ -262,7 +262,7 @@ ul li:Hover a:before{
  width: 200px; 
  position: absolute;
  top: 3700px;
-left: 760px;
+left: 730px;
 }
 
 
@@ -492,7 +492,7 @@ about.html {
 .urban{
     width: 472px;
     height: 317px;
-    margin-left: 50px;
+    margin-left: 70px;
     margin-top: 90px;
     background-color: azure;
 }
@@ -507,7 +507,7 @@ about.html {
     width: 473px;
     height: 395px;
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 70px;
 }
 
 .cam img{
@@ -520,7 +520,7 @@ about.html {
 .matt {
     width: 473px;
     height: 708px;
-    margin-left: 50px;
+    margin-left: 70px;
     margin-top: 50px;
 }
 
@@ -647,7 +647,7 @@ about.html {
 .uw{
     width: 376px;
     height: 267px;
-    margin-left: 20px;
+    margin-left: 60px;
     margin-top: 76px;
 }
 
@@ -693,7 +693,7 @@ about.html {
 .drgn{
     width: 376px;
     height: 250px;
-    margin-left: 20px;
+    margin-left: 60px;
     margin-top: 50px;
 }
 
@@ -706,7 +706,7 @@ about.html {
 .bee{
     width: 377px;
     height: 260px;
-    margin-left: 20px;
+    margin-left: 60px;
     margin-top: 50px;
 }
 
@@ -735,7 +735,7 @@ about.html {
 .max{
     width: 382px;
     height: 560px;
-    margin-left: 20px;
+    margin-left: 60px;
     margin-top: 50px;
 }
 
