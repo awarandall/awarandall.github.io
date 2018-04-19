@@ -36,7 +36,7 @@ body{
     margin-top: 10px;
     float: left;
    
-}
+} 
 
 .monogram{
     width: 180px;
@@ -166,7 +166,7 @@ ul li:Hover a:before{
 .img2 img {
     width: 450px;
     height:600px;
-    margin-left: 130px;
+    margin-left: 160px;
     margin-top: 270px;
     position: absolute;
     top: 1330px;
@@ -177,7 +177,7 @@ ul li:Hover a:before{
 .img3 img {
     width:  400px;
     height: 600px;
-    margin-left: 790px;
+    margin-left: 810px;
     margin-top: 1170px;
     position: absolute;
     top: 430px;
@@ -228,7 +228,11 @@ ul li:Hover a:before{
 .btminfo2 {
     width: 270px;
     height:100px;
+<<<<<<< HEAD
     margin-left: 565px;
+=======
+    margin-left: 440px;
+>>>>>>> b4e27f3165e2718a705b1b1f306a49d1418aea62
     margin-top: 1800px;
     position: absolute;
     top: 1778px;
@@ -289,9 +293,10 @@ left: 760px;
 
 
 .centre2{
-    width:1300px;
+    width:1100px;
     Height: 4000px;
-    margin-left: 165px;
+    margin-left: auto;
+    margin-right: auto;
     
     
         
@@ -301,7 +306,11 @@ left: 760px;
 .thumbnail{
     width:380px;
     height:370px;
+<<<<<<< HEAD
     margin-left: 350px;
+=======
+    margin-left: 190px;
+>>>>>>> b4e27f3165e2718a705b1b1f306a49d1418aea62
     margin-top: 150px;
     float: left;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -333,7 +342,11 @@ left: 760px;
 }
 
 .textbox{
+<<<<<<< HEAD
     margin-left: 350px;
+=======
+    margin-left: 190px;
+>>>>>>> b4e27f3165e2718a705b1b1f306a49d1418aea62
     margin-right: 150px;
     margin-top: 30px;
     float: left;
@@ -348,19 +361,19 @@ left: 760px;
 }
 
 .uwh img{
-    width: 600px;
-    margin-top: 300px;
+    width: 450px;
+    margin-top: 600px;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0,     0.19);
+    margin-left: 0px;
     float: left;
-    margin-left: 600px;
 }
 
 
 
 .firstxv img{
-    width: 600px;
+    width: 450px;
     float: left;
-    margin-top: 00px;
+    margin-top: 300px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0,     0.19);
     margin-left: 0px;
 }
@@ -369,10 +382,10 @@ left: 760px;
 .sprtDES h4{
     float: left;
     font-weight: normal;
-    width: 530px;
+    width: 470px;
     position: absolute;
-    top: 1740px;
-    left: 920px;
+    top: 1600px;
+    left: 900px;
 }
 
 
@@ -381,7 +394,7 @@ left: 760px;
 .sport h1{
     position: absolute;
     top: 1350px;
-    left: 380px;
+    left: 450px;
     float: left;
 }
 
@@ -392,17 +405,17 @@ left: 760px;
 
 
 .nearly img{
-    width: 600px;
+    width: 450px;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-top: 00px;
-    margin-left: 650px;
+    margin-top: 300px;
+    margin-left: 0px;
     float: left;
 
 } 
 
 
 .fellers img{
-    width: 600px;
+    width: 450px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-top: px;
     margin-left: 50px;
@@ -411,15 +424,15 @@ left: 760px;
 .service h4{
     width: 450px;
     position: absolute;
-    top: 2560px;
+    top: 2220px;
     font-weight: normal;
-    left: 940px;
+    left: 890px;
 }
 
 .service h1{
     position: absolute;
-    top: 2215px;
-    left: 380px;
+    top: 1950px;
+    left: 430px;
     float: left;
 }
 
@@ -430,7 +443,7 @@ about.html {
 .Visit h1{
     width: 300px;
     height: 100px;
-    margin-left: 525px;
+    margin-left: 430px;
     margin-top: 200px;
     font-size: 20px;
     text-align: center;
