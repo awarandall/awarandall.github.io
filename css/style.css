@@ -37,7 +37,7 @@ body{
     margin-top: 10px;
     float: left;
    
-}
+} 
 
 .monogram{
     width: 180px;
@@ -167,7 +167,7 @@ ul li:Hover a:before{
 .img2 img {
     width: 450px;
     height:600px;
-    margin-left: 130px;
+    margin-left: 160px;
     margin-top: 270px;
     position: absolute;
     top: 1330px;
@@ -178,7 +178,7 @@ ul li:Hover a:before{
 .img3 img {
     width:  400px;
     height: 600px;
-    margin-left: 790px;
+    margin-left: 810px;
     margin-top: 1170px;
     position: absolute;
     top: 430px;
@@ -229,7 +229,7 @@ ul li:Hover a:before{
 .btminfo2 {
     width: 270px;
     height:100px;
-    margin-left: 480px;
+    margin-left: 440px;
     margin-top: 1800px;
     position: absolute;
     top: 1778px;
